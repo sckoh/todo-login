@@ -1,0 +1,11 @@
+{
+  "name": "todo-login",
+  "version": "0.0.1",
+  "main": [
+    "module/js/login-controller.js",
+    "module/js/login-service.js",
+  ],
+  "dependencies": {
+  },
+  "ignore": []
+}
